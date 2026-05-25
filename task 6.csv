@@ -1,0 +1,51 @@
+Product ID,Product Name,Category,Brand,Date,Price,Rating
+ELEC-TV001-452,Samsung QLED 4K TV,Electronics,Samsung,2024-01-05,787.99,4.5
+FASH-SH001-789,Nike Air Max,Fashion,Nike,2024-01-12,131.99,4.8
+GROC-FO001-234,Organic Almond Milk,Grocery,Nike,2024-01-18,5.05,4.2
+ELEC-PH001-567,Samsung Galaxy S23,Electronics,Samsung,2024-01-25,788.99,4.6
+FASH-CL001-890,Nike Sportswear Hoodie,Fashion,Nike,2024-02-01,90.99,4.4
+GROC-FO003-123,Quinoa Organic,Grocery,Nike,2024-02-08,9.05,4.1
+ELEC-LP001-456,Samsung Galaxy Book,Electronics,Samsung,2024-02-15,989.99,4.7
+FASH-SH002-789,Puma Suede Classic,Fashion,Puma,2024-02-20,78.99,4.3
+GROC-FO005-234,Chia Seeds,Grocery,Nike,2024-02-28,6.95,4.0
+ELEC-PH002-567,iPhone 15,Electronics,Apple,2024-03-05,1019.99,4.9
+FASH-SH003-890,Nike Revolution 6,Fashion,Nike,2024-03-12,68.99,4.5
+GROC-FO002-123,Protein Energy Bars,Grocery,Puma,2024-03-18,24.95,4.2
+ELEC-HD001-456,Samsung T7 SSD,Electronics,Samsung,2024-03-25,129.99,4.4
+FASH-SH004-789,Puma RS-X,Fashion,Puma,2024-04-01,121.99,4.6
+GROC-FO004-234,Coconut Water,Grocery,Puma,2024-04-08,3.95,3.9
+ELEC-TV002-567,Apple TV 4K,Electronics,Apple,2024-04-15,148.99,4.7
+FASH-CL002-890,Puma T7 Track Jacket,Fashion,Puma,2024-04-20,98.99,4.3
+GROC-FO006-123,Matcha Green Tea,Grocery,Puma,2024-04-28,19.95,4.5
+ELEC-LP002-456,MacBook Air,Electronics,Apple,2024-05-05,1099.99,4.8
+FASH-AC001-789,Nike Heritage Backpack,Fashion,Nike,2024-05-12,49.95,4.1
+GROC-FO007-234,Granola Premium,Grocery,Nike,2024-05-18,7.95,4.0
+ELEC-HD002-567,Apple AirPods Pro,Electronics,Apple,2024-05-25,247.99,4.9
+FASH-AC002-890,Puma Phase Backpack,Fashion,Puma,2024-06-01,38.99,4.2
+GROC-FO008-123,Almond Butter,Grocery,Puma,2024-06-08,12.95,4.3
+ELEC-TV001-234,Samsung QLED 4K TV,Electronics,Samsung,2024-06-15,815.99,4.6
+FASH-SH001-456,Nike Air Max,Fashion,Nike,2024-06-20,129.99,4.7
+GROC-FO001-789,Organic Almond Milk,Grocery,Nike,2024-06-28,4.85,4.1
+ELEC-PH001-123,Samsung Galaxy S23,Electronics,Samsung,2024-07-05,810.99,4.5
+FASH-SH002-456,Puma Suede Classic,Fashion,Puma,2024-07-12,82.99,4.4
+GROC-FO003-789,Quinoa Organic,Grocery,Nike,2024-07-18,8.85,3.8
+ELEC-LP001-234,Samsung Galaxy Book,Electronics,Samsung,2024-07-25,1019.99,4.7
+FASH-SH003-456,Nike Revolution 6,Fashion,Nike,2024-08-01,71.99,4.3
+GROC-FO005-789,Chia Seeds,Grocery,Nike,2024-08-08,6.85,4.1
+ELEC-PH002-123,iPhone 15,Electronics,Apple,2024-08-15,1029.99,4.9
+FASH-SH004-456,Puma RS-X,Fashion,Puma,2024-08-20,118.99,4.5
+GROC-FO002-789,Protein Energy Bars,Grocery,Puma,2024-08-28,24.85,4.2
+ELEC-HD001-234,Samsung T7 SSD,Electronics,Samsung,2024-09-05,131.99,4.4
+FASH-CL001-456,Nike Sportswear Hoodie,Fashion,Nike,2024-09-12,88.99,4.5
+GROC-FO004-789,Coconut Water,Grocery,Puma,2024-09-18,4.15,3.8
+ELEC-TV002-234,Apple TV 4K,Electronics,Apple,2024-09-25,152.99,4.6
+FASH-CL002-456,Puma T7 Track Jacket,Fashion,Puma,2024-10-02,97.99,4.4
+GROC-FO006-789,Matcha Green Tea,Grocery,Puma,2024-10-08,20.95,4.5
+ELEC-LP002-234,MacBook Air,Electronics,Apple,2024-10-15,1119.99,4.8
+FASH-AC001-456,Nike Heritage Backpack,Fashion,Nike,2024-10-20,51.99,4.0
+GROC-FO007-789,Granola Premium,Grocery,Nike,2024-10-28,7.85,4.1
+ELEC-HD002-234,Apple AirPods Pro,Electronics,Apple,2024-11-05,251.99,4.9
+FASH-AC002-456,Puma Phase Backpack,Fashion,Puma,2024-11-12,41.99,4.2
+GROC-FO008-789,Almond Butter,Grocery,Puma,2024-11-18,12.85,4.3
+ELEC-TV001-567,Samsung QLED 4K TV,Electronics,Samsung,2024-11-25,795.99,4.5
+FASH-SH001-789,Nike Air Max,Fashion,Nike,2024-12-01,133.99,4.7
